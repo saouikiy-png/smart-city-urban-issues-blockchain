@@ -1,0 +1,16 @@
+issueId,issueType,location,description,reportDate,priority,reportedBy,assignedTo,status
+CITY-2026-001,StreetLight,"Avenue Mohammed V, Ville Fictive",Signalement fictif : équipement urbain à inspecter.,2026-11-01,Low,Citizen01,,Reported
+CITY-2026-002,Pothole,"Rue des Orangers, Ville Fictive",Dégradation simulée nécessitant une intervention municipale.,2026-11-02,Medium,Citizen02,UrbanTeam02,Assigned
+CITY-2026-003,WasteCollection,"Place Al Amal, Ville Fictive","Demande citoyenne de démonstration, sans donnée personnelle.",2026-11-03,High,Citizen03,UrbanTeam03,Assigned
+CITY-2026-004,WaterLeak,"Boulevard Atlas, Ville Fictive",Signalement fictif : équipement urbain à inspecter.,2026-11-04,Critical,Citizen04,,Reported
+CITY-2026-005,TrafficLight,"Rue des Jardins, Ville Fictive",Dégradation simulée nécessitant une intervention municipale.,2026-11-05,Low,Citizen05,UrbanTeam01,Assigned
+CITY-2026-006,BrokenSidewalk,"Avenue des Palmiers, Ville Fictive","Demande citoyenne de démonstration, sans donnée personnelle.",2026-11-06,Medium,Citizen06,UrbanTeam02,Assigned
+CITY-2026-007,StreetLight,"Avenue Mohammed V, Ville Fictive",Signalement fictif : équipement urbain à inspecter.,2026-11-07,High,Citizen07,,Reported
+CITY-2026-008,Pothole,"Rue des Orangers, Ville Fictive",Dégradation simulée nécessitant une intervention municipale.,2026-11-08,Critical,Citizen08,UrbanTeam04,Assigned
+CITY-2026-009,WasteCollection,"Place Al Amal, Ville Fictive","Demande citoyenne de démonstration, sans donnée personnelle.",2026-11-09,Low,Citizen09,UrbanTeam01,Assigned
+CITY-2026-010,WaterLeak,"Boulevard Atlas, Ville Fictive",Signalement fictif : équipement urbain à inspecter.,2026-11-10,Medium,Citizen10,,Reported
+CITY-2026-011,TrafficLight,"Rue des Jardins, Ville Fictive",Dégradation simulée nécessitant une intervention municipale.,2026-11-11,High,Citizen11,UrbanTeam03,Assigned
+CITY-2026-012,BrokenSidewalk,"Avenue des Palmiers, Ville Fictive","Demande citoyenne de démonstration, sans donnée personnelle.",2026-11-12,Critical,Citizen12,UrbanTeam04,Assigned
+CITY-2026-013,StreetLight,"Avenue Mohammed V, Ville Fictive",Signalement fictif : équipement urbain à inspecter.,2026-11-13,Low,Citizen13,,Reported
+CITY-2026-014,Pothole,"Rue des Orangers, Ville Fictive",Dégradation simulée nécessitant une intervention municipale.,2026-11-14,Medium,Citizen14,UrbanTeam02,Assigned
+CITY-2026-015,WasteCollection,"Place Al Amal, Ville Fictive","Demande citoyenne de démonstration, sans donnée personnelle.",2026-11-15,High,Citizen15,UrbanTeam03,Assigned

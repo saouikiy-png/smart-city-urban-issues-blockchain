@@ -1,0 +1,33 @@
+{
+  "name": "certification-blockchain",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:localhost": "hardhat run scripts/deploy.ts --network localhost",
+    "seed:localhost": "hardhat run scripts/seed.ts --network localhost",
+    "sample-data": "hardhat run scripts/generate-sample-xlsx.ts"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.10.2",
+    "ethers": "6.13.5",
+    "hardhat": "2.22.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.0.2",
+    "xlsx": "^0.18.5"
+  },
+  "overrides": {
+    "@nomicfoundation/hardhat-chai-matchers": "2.0.8",
+    "@nomicfoundation/hardhat-ethers": "3.0.8",
+    "@nomicfoundation/hardhat-ignition": "0.15.8",
+    "@nomicfoundation/hardhat-ignition-ethers": "0.15.8",
+    "@nomicfoundation/hardhat-network-helpers": "1.0.12",
+    "@nomicfoundation/hardhat-verify": "2.0.11"
+  }
+}
